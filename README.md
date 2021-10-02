@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Codingforhackers
-- 👀 I’m web devloper and Old-school  Linux Developer
-- 🌱 I’m currently working with GO , javascript , python  ...
-
+- 👀 I’m a web devloper and Old-school  Linux Developer
+- 🌱 I’m currently Hacking Code 👋👋
 
 <!---
 Codingforhackers/Codingforhackers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
