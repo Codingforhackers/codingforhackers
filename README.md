@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codingforhackers
-- 👀 I’m web devloper and linux expert  
+- 👀 I’m web devloper and Old-school  Linux Developer
 - 🌱 I’m currently working with GO , javascript , python  ...
 
 
